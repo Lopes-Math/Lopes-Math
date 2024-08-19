@@ -1,7 +1,7 @@
 # Olá, me chamo Matheus Lopes.
 ## Seja bem vindo ao meu perfil no GitHub!👋😁
 
-- 🎓 Em Fevereiro de 2023, iniciei o curso de Tecnologia em Análise e Desenvolvimento de sistemas, do Instituto Federal de São Paulo ...
+- 🎓 Em 2023, iniciei o curso de Tecnologia em Análise e Desenvolvimento de sistemas, do Instituto Federal de São Paulo ...
 - 🖥️ Estou estudando para me tornar um desenvolvedor de sistemas ...
 - 🧑🏻‍💼 Atualmente trabalho como Analista de Suporte técnico, na MemoCash Soluções, em Campos do Jordão ...
 - 🤔 Ainda estou avaliando qual será o meu foco dentro da área de desenvolvimento ...
@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Lopes-Math&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Lopes-Math&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
