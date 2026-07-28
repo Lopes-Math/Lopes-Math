@@ -1,33 +1,113 @@
-# Olá, me chamo Matheus Lopes.
-## Seja bem vindo ao meu perfil no GitHub!👋😁
+# 👋 Olá! Eu sou o Matheus Lopes
 
-- 🎓 Em 2023, iniciei o curso de Tecnologia em Análise e Desenvolvimento de sistemas, do Instituto Federal de São Paulo ...
-- 🖥️ Estou estudando para me tornar um desenvolvedor de sistemas ...
-- 🧑🏻‍💼 Atualmente trabalho como Analista de Suporte técnico, na MemoCash Soluções, em Campos do Jordão ...
-- 🤔 Ainda estou avaliando qual será o meu foco dentro da área de desenvolvimento ...
+💻 **Desenvolvedor de Software** na **MemoCash Soluções**, apaixonado por tecnologia e por desenvolver soluções que geram impacto no dia a dia dos usuários.
 
-## Estatísticas:
+Atualmente atuo no desenvolvimento e manutenção de aplicações desktop, trabalhando principalmente com **Delphi**, além de integrações com APIs, banco de dados e melhorias contínuas em sistemas de **PDV (Ponto de Venda)** e **Delivery**.
 
-<div>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)** e acredito que o aprendizado contínuo é a melhor forma de evoluir como profissional e entregar software de qualidade.
+
+---
+
+## 🚀 Sobre mim
+
+* 💼 Desenvolvedor de Software na **MemoCash Soluções**
+* 🖥️ Desenvolvimento e manutenção de aplicações Desktop
+* 💳 Desenvolvimento de sistemas de PDV e Delivery
+* 🔌 Integração de sistemas com APIs
+* 🗄️ Experiência com bancos de dados relacionais
+* 📋 Gerenciamento de projetos utilizando Microsoft Azure DevOps
+* 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+
+---
+
+## 💼 Experiência
+
+### 💻 Desenvolvedor de Software
+
+**MemoCash Soluções** • Fev/2025 - Atual
+
+* Desenvolvimento de aplicações utilizando **Delphi**
+* Manutenção e evolução de sistemas corporativos
+* Desenvolvimento de funcionalidades para sistemas de PDV e Delivery
+* Integração com APIs
+* Correção de bugs e otimização de código
+* Controle de tarefas e versionamento utilizando Azure DevOps
+
+### 🧪 Analista de Testes (QA)
+
+**MemoCash Soluções** • Out/2024 - Jan/2025
+
+* Planejamento e execução de testes
+* Identificação e documentação de bugs
+* Garantia da qualidade das aplicações
+* Controle de testes utilizando Azure DevOps
+
+### 🛠️ Analista de Suporte Técnico
+
+**MemoCash Soluções** • Jun/2023 - Out/2024
+
+* Suporte técnico aos clientes
+* Instalação e configuração de sistemas
+* Configuração de bancos de dados
+* Implantação de sistemas
+* Atendimento e treinamento de usuários
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60"/>
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
   <a href="https://github.com/Lopes-Math">
-  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-Math&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=Lopes-Math&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lopes-Math&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-Math&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </div>
 
-## Ferramentas e Tecnologias em aprendizado:
+---
+
+## 📫 Contato
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 70px; width: 70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="height: 70px; width: 70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 70px; width: 70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: 70px; width: 70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="height: 70px; width: 70px"/>
+  <a href="https://www.linkedin.com/in/m-lopes-oliv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lopesmathdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-## Contatos:
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/matheus-lopes-de-oliveira-a01288258" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "lopesmathdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/m_lopesss_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha trajetória como desenvolvedor.
