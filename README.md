@@ -85,17 +85,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Feder
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Lopes-Math">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lopes-Math&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-Math&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 📫 Contato
 
 <div>
